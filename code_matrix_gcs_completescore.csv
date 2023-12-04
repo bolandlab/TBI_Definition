@@ -1,0 +1,28 @@
+﻿Version,Code,Code_description,All_TBI_Codes,TBI_DOD,Mild_TBI,Moderate_TBI,Severe_TBI,Penetrating_TBI,Unclassified_TBI_Codes,TBI_CDC,TBI_2019_VA_ICD10,History_of_TBI 
+ICD10,R40.241,Glasgow coma scale score 13-15,1,0,1,0,0,0,0,0,0,0
+ICD10,R40.2410,"Glasgow coma scale score 13-15, unspecified time",1,0,1,0,0,0,0,0,0,0
+ICD10,R40.2411,"Glasgow coma scale score 13-15, in the field [EMT or ambulance]",1,0,1,0,0,0,0,0,0,0
+ICD10,R40.2412,"Glasgow coma scale score 13-15, at arrival to emergency department",1,0,1,0,0,0,0,0,0,0
+ICD10,R40.2413,"Glasgow coma scale score 13-15, at hospital admission",1,0,1,0,0,0,0,0,0,0
+ICD10,R40.2414,"Glasgow coma scale score 13-15, 24 hours or more after hospital admission",1,0,1,0,0,0,0,0,0,0
+ICD10,R40.242,Glasgow coma scale score 9-12,1,0,0,1,0,0,0,0,0,0
+ICD10,R40.2420,"Glasgow coma scale score 9-12, unspecified time",1,0,0,1,0,0,0,0,0,0
+ICD10,R40.2421,"Glasgow coma scale score 9-12, in the field [EMT or ambulance]",1,0,0,1,0,0,0,0,0,0
+ICD10,R40.2422,"Glasgow coma scale score 9-12, at arrival to emergency department",1,0,0,1,0,0,0,0,0,0
+ICD10,R40.2423,"Glasgow coma scale score 9-12, at hospital admission",1,0,0,1,0,0,0,0,0,0
+ICD10,R40.2424,"Glasgow coma scale score 9-12, 24 hours or more after hospital admission",1,0,0,1,0,0,0,0,0,0
+ICD10,R40.243,Glasgow coma scale score 3-8,1,0,0,0,1,0,0,0,0,0
+ICD10,R40.2430,"Glasgow coma scale score 3-8, unspecified time",1,0,0,0,1,0,0,0,0,0
+ICD10,R40.2431,"Glasgow coma scale score 3-8, in the field [EMT or ambulance]",1,0,0,0,1,0,0,0,0,0
+ICD10,R40.2432,"Glasgow coma scale score 3-8, at arrival to emergency department",1,0,0,0,1,0,0,0,0,0
+ICD10,R40.2433,"Glasgow coma scale score 3-8, at hospital admission",1,0,0,0,1,0,0,0,0,0
+ICD10,R40.2434,"Glasgow coma scale score 3-8, 24 hours or more after hospital admission",1,0,0,0,1,0,0,0,0,0
+ICD10,R40.244,"Other coma, without documented Glasgow coma scale score, or with partial score reported",1,0,0,0,0,0,1,0,0,0
+ICD10,R40.2440,"Other coma, without documented Glasgow coma scale score, or with partial score reported, unspecified time",1,0,0,0,0,0,1,0,0,0
+ICD10,R40.2441,"Other coma, without documented Glasgow coma scale score, or with partial score reported, in the field [EMT or ambulance]",1,0,0,0,0,0,1,0,0,0
+ICD10,R40.2442,"Other coma, without documented Glasgow coma scale score, or with partial score reported, at arrival to emergency department",1,0,0,0,0,0,1,0,0,0
+ICD10,R40.2443,"Other coma, without documented Glasgow coma scale score, or with partial score reported, at hospital admission",1,0,0,0,0,0,1,0,0,0
+ICD10,R40.2444,"Other coma, without documented Glasgow coma scale score, or with partial score reported, 24 hours or more after hospital admission",1,0,0,0,0,0,1,0,0,0
+ICD10,DOD0102,"Personal history of traumatic brain injury (tbi), highest level of severity mild (glasgow coma scale 13-15), loc <1hr, post trauma amnesia < 24hr",1,1,1,0,0,0,0,0,0,0
+ICD10,DOD0103,"Personal history of traumatic brain injury (tbi), highest level of severity moderate (glasgow coma scale 9-12), loc 1-24 hrs, post trauma amnesia 2-7 days",1,1,0,1,0,0,0,0,0,0
+ICD10,DOD0104,"Personal history of traumatic brain injury (tbi), highest level of severity severe (glasgow coma scale 3-8) ,loc  > 24hrs, post trauma amnesia >7 days",1,1,0,0,1,0,0,0,0,0
